@@ -1,0 +1,6 @@
+{
+  "name": "AI Automated Timetable Scheduling System (ระบบจัดตารางสอนอัตโนมัติอัจฉริยะ)",
+  "description": "ระบบจัดตารางสอนอัตโนมัติอัจฉริยะ พร้อมระบบล็อคอิน สมัครสมาชิก ตรวจสอบเงื่อนไข และวิเคราะห์ตารางสอนด้วย AI พัฒนาโดย นายนนทกานต์ วงษ์แก้ว ปวส.1 วิทยาลัยเทคนิคกาญจนาภิเษก สมุทรปราการ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
